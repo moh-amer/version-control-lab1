@@ -1,7 +1,1 @@
 This file was created by Mohamed Alaa (Cloud Platform Development ).
-new commit.
-another commit
-this line edited in the branch.
-
-
-this line will appear only in the branch(new).
